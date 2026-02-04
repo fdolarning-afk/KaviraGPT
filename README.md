@@ -4,7 +4,6 @@
 </div>
 
 - THIS TOOLS HAS BEEN CLOSED FROM ADMIN, AND IT'S NOW OPEN SOURCE, USE IT FOR LEARNING!.
-> Forum: [Telegram](https://t.me/kawaiigpt_official)
 
 ## Use (Linux Distro)
 ---
@@ -12,7 +11,7 @@
 apt-get update && apt-get upgrade (if not updated and upgraded)
 apt install python3 && apt install python3-pip
 apt install git
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/fdolarning-afk/KaviraGPT
 cd KawaiiGPT
 python3 install.py
 python3 kawai.py
