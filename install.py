@@ -119,11 +119,11 @@ def main():
     mode=1 if pys.lower() == 'python3' else 0
     install_modules()
 
-    print('='*4+'Starting KawaiiGPT'+'='*4)
-    if os.path.exists('kawai.py'):
-        os.system('python3 kawai.py') if mode == 1 else os.system('python kawai.py')
+    print('='*4+'Starting KaviraGPT'+'='*4)
+    if os.path.exists('kavira.py'):
+        os.system('python3 kavira.py') if mode == 1 else os.system('python kavira.py')
     else:
-        print("[!] kawai.py not found. Please download it first.")
+        print("[!] kavira.py not found. Please download it first.")
 
 if __name__ == "__main__":
     main()
